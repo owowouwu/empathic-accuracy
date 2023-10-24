@@ -1,0 +1,1 @@
+{"hidden_layers": 64, "dropout": 0.25, "sentence_pair_method": "concatl1", "lmodel": "sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1", "n_epoch": 50, "batch_size": 128}

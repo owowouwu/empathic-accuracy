@@ -1,0 +1,12 @@
+sparse_points,kernel,sentence_transformer,sentence_pairing_method,pearsonr,model_file
+25,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.864501458919819,b65e431887160cb508cc69fc2ec9b24aa5b3964041bb503089d8d2382bf1ea21.save
+45,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.862584354839047,bd703f432489551cf5cd601940d16c14a482eeae6924f07238df0064366ba953.save
+10,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.864196076632189,89fc16244ea0ef050635f364ffde13dd1eab089408377e724bf4d30cf6db053e.save
+20,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.863161286866215,deba8e8ad03fa2cdef4d1fc7c4104ad9065e10b3c497dc84250f73a3c63636b8.save
+40,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.865567833840166,b0e3aac1ec0224035d113341c3becd677a4d24a225ef81983d2e55a6988af5ac.save
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.865492992825838,a96c2a179d3936fcf0be1991d6b5aba658afd8c84bea1cd72aaae075db878dbb.save
+15,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.864536497926495,076b617d35d74ff1164adaf570468e392363c71db1afe1e7f6597b54df813d58.save
+35,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.862678792373521,c7154e4ea3cd458a157aa740dee5a3f9a5b8340f88b15ad71c8bf94c7d21af4f.save
+50,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.862942704975724,e2f97a5419300798a3b24208f8fd87bc251488d32349560b1600456e146d3985.save
+5,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.860469543990591,8caeab104fa3b06948d96deeb87adc9eaab5dc654da529e46bbcfae13db5f449.save
+20,ratquad,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,prod,0.8626143452121032,a5f255db84029cb55d33d34c551d000e9aa3751a5a36794b953fe7e06fc4aec3.save

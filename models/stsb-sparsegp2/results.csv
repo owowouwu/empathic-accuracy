@@ -1,0 +1,16 @@
+sparse_points,kernel,sentence_transformer,sentence_pairing_method,pearsonr,model_file
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concatl1,0.8592661252985246,b1143304684cbf503805ef8d0ad1e10c28565959257e30a13ef7f9abf423d4c4.pt
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concat,0.1505666394597972,fa142ec16f6ac4cf79ee9d328559ce60703b6bc1f99367a1496e4fe7e40c0f62.pt
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,l1,0.8278437249246584,7c658e9b99d596f6d40b47f150bbab90dd9f759b3f61149150fd1f9615ecca2f.pt
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concatl1,0.8606857349686495,b1143304684cbf503805ef8d0ad1e10c28565959257e30a13ef7f9abf423d4c4.pt
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concat,0.16620085774624238,fa142ec16f6ac4cf79ee9d328559ce60703b6bc1f99367a1496e4fe7e40c0f62.pt
+30,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,l1,0.8205456657309167,7c658e9b99d596f6d40b47f150bbab90dd9f759b3f61149150fd1f9615ecca2f.pt
+40,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concatl1,0.8595506063474132,1aeae67050b401f5686cc515d900b37e9ad65c0d12703c8ac9afd01c5db824cd.pt
+40,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concat,0.15716377361121825,d2d6b55aa75a0dca7f1c7fb9738ad45adcc9bfe718cbccb0f9e97593e27d70c1.pt
+40,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,l1,0.8284465636418168,d7acf9653e569dfe19d62c60ab72a7144e2434d39a592672798385d64ccba348.pt
+50,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concatl1,0.8597762654785495,f62efd417921a84f355181fde58b763cf89f6c3b2b21bd07d25fab304bd5635b.pt
+50,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concat,0.15619620340423337,17ed29f96f674d13e1c60308e6dda0b2fb68b706b6faf74c7bd8abb5bb869492.pt
+50,rbf,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,l1,0.828333231567592,d374fb62196f6c11a1089839a74e1e0ca5900285a22f3d4689f22bd43dadb926.pt
+50,ratquad,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concatl1,0.859169684937239,c3c3dd8da8dc77c1eb59f21e55583a6986b49e92a46ada8502585d2ba252fb89.pt
+50,ratquad,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,concat,0.15431480473171094,d4adae82734b43c2d281bccda7a18f65153c184d96e0cf4d8ea596306d3d6cc5.pt
+50,ratquad,sentence-transformers/xlm-r-distilroberta-base-paraphrase-v1,l1,0.8282812527823133,bc34d6c9789df7ae815bbc773bc86633d7744821fbc2ee1148c4394dfafe183b.pt

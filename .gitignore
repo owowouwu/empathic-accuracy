@@ -1,0 +1,13 @@
+.idea/
+.ipynb_checkpoints/
+data/
+nikita/
+scripts/modules/__pycache__/
+results/cosine_sim_with_text.csv
+.env
+*.slurm
+*.out
+*.save
+*.png
+*.pyc
+*.pt
