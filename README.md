@@ -1,3 +1,4 @@
 # Predicting Empathic Accuracy from User-Designer Interviews
+# Data
 
-This repository contains the code used for the paper...
+Data is available under request to Katja Hölttä-Otto, katja.holttaotto@unimelb.edu.au
